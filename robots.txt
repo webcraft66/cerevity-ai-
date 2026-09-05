@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cerevityai.vercel.app/sitemap.xml

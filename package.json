@@ -1,0 +1,9 @@
+{
+  "name": "cerevityai-partnership-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CerevityAI school-partnership FAQ chatbot with WhatsApp CTA, deployable as a static site + serverless API on Vercel.",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
